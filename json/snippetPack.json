@@ -1,0 +1,126 @@
+[
+  {
+    "categoryName": "Skills",
+    "folderName": "skills",
+    "snippets": [
+      "h1_bold_p_light_italic_3x_ico_p_light_xxl_b_p_light",
+      "h1_bold_uppercase_3x_span_bold_xxl_p_light_xl_h3_p",
+      "h1_light_3x_mini_rounded_card_p_bold_h3_light",
+      "h1_light_p_2x_mini_rounded_card_p_bold_xxl_h3",
+      "h1_light_p_3x_card_span_bold_xxl_p_light_xl_h3",
+      "h1_light_p_3x_ico_h4_b_h4",
+      "h1_light_p_4x_p_bold_xxl_p_light"
+    ]
+  },
+  {
+    "categoryName": "Profile",
+    "folderName": "profile",
+    "snippets": [
+      "mini_circle_img_p_larger_p_icons_block",
+      "img_h2_p_icons_block"
+    ]
+  },
+  {
+    "categoryName": "Achievements",
+    "folderName": "achievements",
+    "snippets": [
+      "2x_ico_h2_p_grey_action_button",
+      "bordered_block_ico_p_bold_xl_p_h1_light_p_cyan_button",
+      "h1_bold_3x_ico_p_bold_xl_p",
+      "h1_bold_xl_2x_2x_ico_p",
+      "h1_light_2x_2x_ico_span_bold_p",
+      "h1_light_3x_ico_h3_p",
+      "h1_light_4x_ico_p",
+      "h1_light_p_3x_ico_p_xxl_b_p",
+      "ico_h1_light_4x_p_bold_xxxl_p_larger",
+      "rounded_card_ico_span_bold_h3_p_xl_mini_squared_icons_block"
+    ]
+  },
+  {
+    "categoryName": "Portfolio / Products",
+    "folderName": "portfolio",
+    "snippets": [
+      "3x_img_h1_bold_p_larger_italic_p_cyan_button",
+      "h1_bold_p_2x_3x_img",
+      "h1_light_p_3x_card_circle_img_h2_p_cyan_button",
+      "h1_light_p_3x_circle_img_h2_p_rounded_cyan_button",
+      "h1_light_p_3x_img_p_b_p",
+      "ico_h1_light_p_img_h1_p_cyan_button_h1_p_cyan_button_img"
+    ]
+  },
+  {
+    "categoryName": "Contact Info",
+    "folderName": "contact_info",
+    "snippets": [
+      "h1_bold_uppercase_p_h3_p_h3_p_color_rectangled_icons_block",
+      "h1_p_2x_h3_3x_ico_left_p",
+      "h1_p_3x_left_ico_h3_p",
+      "h1_p_4x_ico_h3_p",
+      "h1_p_img_h3_p_icons_block"
+    ]
+  },
+  {
+    "categoryName": "Images",
+    "folderName": "images",
+    "snippets": [
+      "1_image",
+      "2_images",
+      "3_images"
+    ]
+  },
+  {
+    "categoryName": "Images + Caption",
+    "folderName": "images_plus_caption",
+    "snippets": [
+      "2_images_2_captions",
+      "3_images_3_captions",
+      "image_caption_image_caption"
+    ]
+  },
+  {
+    "categoryName": "Social",
+    "folderName": "social",
+    "snippets": [
+      "h1_bold_p_larger_light_italic_icons_block",
+      "h1_bold_p_light_circled_color_icons_block",
+      "h1_bold_p_light_rectangled_color_icons_block",
+      "h1_light_p_light_icons_block",
+      "ico_p_larger_h1_bold_circled_color_icons_block",
+      "squared_color_icons_block"
+    ]
+  },
+  {
+    "categoryName": "Call To Action",
+    "folderName": "call_to_action",
+    "snippets": [
+      "img_h1_bold_p_italic_cyan_button",
+      "h1_bold_p_italic_cyan_button_img",
+      "img_h1_light_p_cyan_button",
+      "h1_light_p_cyan_button_img",
+      "h1_bold_xxxl_p_cyan_button",
+      "h1_bold_p_italic_cyan_button",
+      "h1_bold_xxxl_p_img_h1_light_p_cyan_rounded_button",
+      "icons_block_h1_bold_xxxl_p_cyan_rounded_button",
+      "ico_h1_light_p_cyan_button",
+      "ico_h3_light_h1_bold_grey_and_cyan_rounded_buttons",
+      "ico_p_h1_bold_xxxl_p_cyan_rounded_button",
+      "h1_bold_xxxl_p_circled_icons_block_grey_and_cyan_rounded_buttons",
+      "circled_icons_block_h1_bold_p_cyan_rounded_button"
+    ]
+  },
+  {
+    "categoryName": "Quotes",
+    "folderName": "quotes",
+    "snippets": [
+      "left_ico_p_larger_p_grey",
+      "2x_left_ico_p_larger_p_grey",
+      "circle_img_left_ico_p_larger_p_grey",
+      "left_ico_p_larger_p_grey_circle_img",
+      "h1_p_4x_left_ico_p_larger_p_grey",
+      "h1_ico_3x_circle_img_p_p_b_larger",
+      "h1_3x_ico_p_p_larger",
+      "h1_2x_circle_img_p_p_larger",
+      "h1_2x_mini_circle_img_italic_p_and_p_b"
+    ]
+  }
+]

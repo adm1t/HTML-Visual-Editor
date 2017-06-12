@@ -1,0 +1,57 @@
+[
+  {
+    "faClass": "fa-facebook",
+    "link": "https://facebook.com/",
+    "color": "blue"
+  },
+  {
+    "faClass": "fa-github",
+    "link": "https://github.com/",
+    "color": "dark"
+  },
+  {
+    "faClass": "fa-google-plus",
+    "link": "https://plus.google.com/",
+    "color": "red"
+  },
+  {
+    "faClass": "fa-instagram",
+    "link": "https://instagram.com/",
+    "color": "purple"
+  },
+  {
+    "faClass": "fa-skype",
+    "link": "skype:",
+    "color": "light_blue"
+  },
+  {
+    "faClass": "fa-twitch",
+    "link": "https://twitch.tv/",
+    "color": "darken_magenta"
+  },
+  {
+    "faClass": "fa-twitter",
+    "link": "https://twitter.com/",
+    "color": "azure"
+  },
+  {
+    "faClass": "fa-vk",
+    "link": "https://vk.com/",
+    "color": "pale_blue"
+  },
+  {
+    "faClass": "fa-youtube-play",
+    "link": "https://youtube.com/",
+    "color": "light_red"
+  },
+  {
+    "faClass": "fa-odnoklassniki",
+    "link": "https://ok.ru/",
+    "color": "orange"
+  },
+  {
+    "faClass": "fa-envelope-o",
+    "link": "mailto:",
+    "color": "pink"
+  }
+]

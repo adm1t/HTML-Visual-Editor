@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <title> HTML Visual Editor </title>
+
+    <link rel="icon" type="image/ico" href="favicon.ico" />
+
+    <link href="css/vendorsCss.min.css" type="text/css" rel="stylesheet">
+    <link href="css/style.min.css" type="text/css" rel="stylesheet">
+
+    <script type='text/javascript' src="js/vendorsJs.min.js"></script>
+    <script type='text/javascript' src="js/common.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="add-snippets-modal" class="modal fade show" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="list-group">
+                            <a href="#" class="list-group-item">Achievements</a>
+                            <a href="#" class="list-group-item">Call To Action</a>
+                            <a href="#" class="list-group-item">Contact Info</a>
+                            <a href="#" class="list-group-item">Images</a>
+                            <a href="#" class="list-group-item">Images + Caption</a>
+                            <a href="#" class="list-group-item">Portfolio / Products</a>
+                            <a href="#" class="list-group-item">Profile</a>
+                            <a href="#" class="list-group-item">Quotes</a>
+                            <a href="#" class="list-group-item">Skills</a>
+                            <a href="#" class="list-group-item">Social</a>
+                        </div>
+                    </div>
+                    <div class="thumbnails-block col-md-8 mt-3 mt-md-0">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="iconpicker-modal" class="modal fade show" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <input class="srchicons" placeholder="eg:google" type="text">
+                <div class="iconsholder">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="soc-icons-editor-modal" class="modal fade show" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="socIconEditor" class="d-flex flex-column">
+                    <div class="table">
+                    </div>
+                    <div class="mt-auto flex-column footer text-center">
+                        <hr class="m-0">
+                        <p class="my-2" id="icons"> </p>
+                        <hr class="m-0">
+                        <p class="font_open_sans  text-center mb-0 py-2" id="complete">COMPLETE</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="content" class="start-screen">
+    <div class="inserting-area text-center my-5">
+        <i class="fa fa-plus fa-3x"></i>
+    </div>
+</div>
+
+<i class="fa fa-save fa-4x" id="save-page"></i>
+
+</body>
+</html>
